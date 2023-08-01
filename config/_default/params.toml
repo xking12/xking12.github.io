@@ -19,7 +19,7 @@ subtitle = "悟已往者不谏,知来者知可追"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/1.png"
 
 [article]
 math = false
